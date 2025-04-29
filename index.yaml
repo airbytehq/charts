@@ -3,9 +3,9 @@ entries:
   airbyte:
   - apiVersion: v2
     appVersion: 1.6.0
-    created: "2025-04-29T13:55:58.213770252Z"
+    created: "2025-04-29T21:40:48.286290976Z"
     description: Helm chart to deploy airbyte
-    digest: 7baf2b0cfd66549cd0d67e14e4a0ad6cf1bb76be60538e49d3505150a9fa319d
+    digest: 94c1dd2543cb6cac44c552f640e51854c885f7410aa428dae06e99ea474b4a43
     name: airbyte
     type: application
     urls:
@@ -13,7 +13,7 @@ entries:
     version: 2.0.0
   - apiVersion: v2
     appVersion: dev-8dbf465918b
-    created: "2025-04-29T13:55:58.210885376Z"
+    created: "2025-04-29T21:40:48.282832771Z"
     description: Helm chart to deploy airbyte
     digest: 85ecd65960ae2b45db84ccdc903595f7469a88216627a2243efd46906655c4eb
     name: airbyte
@@ -23,7 +23,7 @@ entries:
     version: 2.0.0-rc-8dbf465918b
   - apiVersion: v2
     appVersion: dev-fbf0c6b9f0b
-    created: "2025-04-29T13:55:58.208342042Z"
+    created: "2025-04-29T21:40:48.279742446Z"
     description: Helm chart to deploy airbyte
     digest: 5555b3550e9d0ec36cbc8ca36568ff11e00d75bce18d89abc40c73ce4dca7b68
     name: airbyte
@@ -33,7 +33,7 @@ entries:
     version: 2.0.0-dev-fbf0c6b9f0b
   - apiVersion: v2
     appVersion: dev-d11521a4085
-    created: "2025-04-29T13:55:58.205503459Z"
+    created: "2025-04-29T21:40:48.276140782Z"
     description: Helm chart to deploy airbyte
     digest: 73dc67a50adec8e01450764a65ee1ca22698c5230fa7930293549fcacf152364
     name: airbyte
@@ -43,7 +43,7 @@ entries:
     version: 2.0.0-dev-d11521a4085
   - apiVersion: v2
     appVersion: dev-a3743e9cb62
-    created: "2025-04-29T13:55:58.202018Z"
+    created: "2025-04-29T21:40:48.27252291Z"
     description: Helm chart to deploy airbyte
     digest: ac9df8233529f11fc49b4273d89cda6ca0642f0467f0a915ae16dccc67f3e817
     name: airbyte
@@ -51,4 +51,4 @@ entries:
     urls:
     - airbyte-2.0.0-RC-a3743e9cb62.tgz
     version: 2.0.0-RC-a3743e9cb62
-generated: "2025-04-29T13:55:58.198886583Z"
+generated: "2025-04-29T21:40:48.269506169Z"
