@@ -1,7 +1,7 @@
 # Used by Artifact Hub to verify ownership of this Helm repository.
 # Must stay at the root of this repo, next to index.yaml, so it is served from
 # https://airbytehq.github.io/charts/artifacthub-repo.yml
-repositoryID: a6414dbd-03c0-446a-a1f4-df3c63d1cb34
+repositoryID: fc26ca46-be30-40fe-b818-99a5ccebafee
 owners:
   - name: Aldo Gonzalez
     email: aldo.gonzalez@airbyte.io
