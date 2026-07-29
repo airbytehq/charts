@@ -1,0 +1,11 @@
+# Used by Artifact Hub to verify ownership of this Helm repository.
+# Register https://airbytehq.github.io/charts at https://artifacthub.io, then replace
+# the placeholder below with the repository ID assigned by Artifact Hub.
+# repositoryID: <Artifact Hub repository ID>
+owners:
+  - name: Cole
+    email: cole@airbyte.io
+  - name: Angel
+    email: angel@airbyte.io
+  - name: Divya
+    email: divya.gummadi@airbyte.io
