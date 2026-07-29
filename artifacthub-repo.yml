@@ -3,5 +3,15 @@
 # the placeholder below with the repository ID assigned by Artifact Hub.
 # repositoryID: <Artifact Hub repository ID>
 owners:
-  - name: Divya
+  - name: Aldo Gonzalez
+    email: aldo.gonzalez@airbyte.io
+  - name: Cameron Kennedy
+    email: cameron.kennedy@airbyte.io
+  - name: Christo Grabowski
+    email: christo.grabowski@airbyte.io
+  - name: Davin Chia
+    email: davin@airbyte.io
+  - name: Divya Gummadi
     email: divya.gummadi@airbyte.io
+  - name: Subodh
+    email: subodh@airbyte.io
