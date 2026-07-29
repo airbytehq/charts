@@ -3,9 +3,5 @@
 # the placeholder below with the repository ID assigned by Artifact Hub.
 # repositoryID: <Artifact Hub repository ID>
 owners:
-  - name: Cole
-    email: cole@airbyte.io
-  - name: Angel
-    email: angel@airbyte.io
   - name: Divya
     email: divya.gummadi@airbyte.io
